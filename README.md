@@ -39,7 +39,9 @@ La preferncia de colores del cliente es azul marino y blanco, pero acepta propue
 
 ![1646421049867.png](image/README/1646421049867.png)
 
-***UI* **Para el desarrollo de UI se utilizo ha herramienta de Figma
+Para el desarrollo de UI se utilizo ha herramienta de Figma
+
+
 ![1646421096981.png](image/README/1646421096981.png)
 
 Se adjunta liga para poder visualizar el trabajo
